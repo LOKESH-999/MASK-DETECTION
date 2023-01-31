@@ -10,6 +10,6 @@ LINK FOR PT SAVED MODEL: https://drive.google.com/file/d/10YP0JPS_jNfMhP2jcRq1KL
   1.IF YOU HAVE AN TORCH ON YOUR PC YOU CAN DIRECTLY LOAD THIS MODEL USING (torch.load('link_to_the_file'))
 
 
-#***THIS REPO CONSIST OF TWO FILES***
+# ***THIS REPO CONSIST OF TWO FILES***
   1.One is .ipynb file 
   2..py file
